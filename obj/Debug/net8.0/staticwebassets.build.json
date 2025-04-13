@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "npYGNO5dGYuU5VB0b8NtuUz5gwEozpojek/8OUc6L3Q=",
+  "Source": "TaskManagementSystem",
+  "BasePath": "_content/TaskManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskManagementSystem\\wwwroot",
+      "Source": "TaskManagementSystem",
+      "ContentRoot": "D:\\Jayesh\\DotNet\\.NET Developer Task\\.NET_TaskManagementSystem\\wwwroot\\",
+      "BasePath": "_content/TaskManagementSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
