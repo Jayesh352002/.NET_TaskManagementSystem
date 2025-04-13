@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Jayesh\\DotNet\\.NET Developer Task\\.NET_TaskManagementSystem\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TaskManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TaskManagementSystem.props",
+      "PackagePath": "build\\TaskManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TaskManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\TaskManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TaskManagementSystem.props",
+      "PackagePath": "buildTransitive\\TaskManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
